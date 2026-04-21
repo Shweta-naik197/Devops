@@ -894,3 +894,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration App references non-
 2026-03-26 10:45:22,668 [Worker-25: Launching program4.jar] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\shwet\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
 2026-03-26 10:45:22,673 [Worker-25: Launching program4.jar] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Devops\program4.jar":
 2026-03-26 10:45:22,677 [Worker-25: Launching program4.jar] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always package
+2026-03-26 12:19:04,494 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
